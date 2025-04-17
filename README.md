@@ -1,5 +1,5 @@
  👋 Hi, I’m @BARAKA-SAFARI-Josh
-      👀 I’m web enthousiast with moderns techs like Angular and Firebas.
+      👀 I’m web enthousiast with moderns techs like Angular and Firebase.
 
 Contact me :
   -www.joshbaraka91@gmail.com
