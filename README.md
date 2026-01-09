@@ -3,5 +3,5 @@
       Professional reconversion in Machine Learning Engineer. 
 
 Contact me on:
-  www.joshbaraka91@gmail.com
+  [joshbaraka91@gmail.com]
 
